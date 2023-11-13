@@ -1,0 +1,6 @@
+
+CAUSAL_LM_TASK = '<TASK_1>'
+MASKED_LM_TASK = '<TASK_2>'
+S2S_TASK = '<TASK_3>'
+
+DEVICE = 'cuda'
